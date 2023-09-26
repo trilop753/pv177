@@ -1,2 +1,2 @@
-local.key.rsa
-local.key.rsa.pub
+ssh_keys
+ssh_keys.pub
